@@ -14,16 +14,26 @@
   font-size: 14;
 
 }
-#breakfast{
-   background-image: url(../img/foodtop/breakfast.jpg);
-   }
-   #dinner{
-      background-image: url(../img/foodtop/dinner.jpg);
-      }
-    #lunch{
-         background-image: url(../img/foodtop/lunch.jpg);
-        }
-
+li :{
+    background-color: #555;
+    color: white;}
+.breakfast{
+  background-image: url(../img/foodtop/breakfast.jpg);
+  text-align: center;
+  color: white;
+  padding: 30px;
+}
+.lunch{
+  background-image: url(../img/foodtop/lunch.jpg);
+  text-align: center;
+  color: white;
+  padding: 30px;}
+  .dinner{
+    background-image: url(../img/foodtop/dinner.jpg);
+    text-align: center;
+    color: white;
+    padding: 30px;
+}
 .logo {
 	justify-content: center;
 	text-align: : center;
