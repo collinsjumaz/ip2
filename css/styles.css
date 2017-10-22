@@ -9,11 +9,41 @@
  align-items:center;
 
 }
+#foods {
+ height: 100;
+ width: 100%;
+ background-image: url(../img/backgrounds/foodsBg.jpg);
+ background-size: cover;
+ background-repeat: no-repeat;
+ display: flex;
+ justify-content:center;
+ align-items:center;
+   }
+.column {
+    float: left;
+    width: 50%;
+  }
 #text{
   text-align: center;
   font-size: 14;
 
 }
+.column2 {
+    float: left;
+    width: 33.33%;
+}
+
+/* Clear floats after the columns */
+.row2:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.pics{
+  width: 50%;
+  float: right;
+}
+
 li :{
     background-color: #555;
     color: white;}
