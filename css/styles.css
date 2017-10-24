@@ -12,7 +12,7 @@
 #men {
   width: 35px;
     height: 5px;
-    background-color: white;
+    background-color: black;
     margin: 6px 0;
 }
 #foods {
@@ -45,7 +45,7 @@
        align-items:center;
          }
       #footer {
-       height: 100;
+       height: auto;
        width: 100%;
        background-color: F15A29;
        background-size: cover;
@@ -114,6 +114,9 @@ ul {
 	padding:0;
 	text-decoration:none;
 	list-style:none;
+}
+#cust{
+  border-color: lightgray;
 }
 li {
 	padding:0;
@@ -310,4 +313,27 @@ nav ul li a:hover {
 	color#333;
 	background-color: skyblue;
 	text-align: center;
+}
+.lay{
+background-image: url("../assets/backgrounds/foodsBg.jpg");
+height: 80vh;
+	width:100%;
+	background-repeat: no-repeat;
+	background-size:cover;
+	display: flex;
+	justify-content:center;
+	align-items:center;
+	background-attachment: fixed;;
+}
+.customer{
+	width: 90%;
+	margin-top:5%;
+	margin-bottom: 5%;
+	margin-top: 5%;
+	margin-right: 5%
+	 border-color: transparent;
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 5px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }

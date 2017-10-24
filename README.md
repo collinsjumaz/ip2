@@ -5,10 +5,10 @@
 
 ## Description
 
-This is a detailed Web-page about various Drinks and foods that Anita's restaurant offers to her customers .The also contains social media links for easier access.
+This is a detailed Web-page about various Drinks and foods that Menu restaurant offers to her customers .The also contains social media links for easier access.
 
 ## Setup/Installation Requirements
- This PortFolio can be accessed through my git-hub on the following link: https://github.com/collinsjumaz/ip2.git
+ This site can be accessed through my git-hub on the following link: https://github.com/collinsjumaz/ip2.git
 
 You only need internet access and a browser.
 
