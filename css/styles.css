@@ -117,7 +117,7 @@ body {
 }
 .subscribe {
   position: absolute;
-  top: 460%;
+  top: 455%;
   left: 50%;
   transform: translate(-50%, 70%);
   color: white;
