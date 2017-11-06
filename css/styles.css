@@ -242,3 +242,11 @@ div.vertical-line{
   cursor: pointer;
   background-color: white;
 }
+#chick{
+  position: absolute;
+    margin-left: 37px;
+    margin-top: -457px;
+    color: #F15A29;
+    text-align: center;
+
+}
